@@ -77,6 +77,14 @@ O Cliente se conecta ao Servidor para iniciar o jogo.
 
 * O jogo alterna entre os jogadores até que haja um vencedor (três em linha) ou um empate.
 
+### 4. Fluxo de execução alternativo
+* Se quiser executar a parte visual do jogo em uma interface gráfica, você pode utilizar a versão com Tkinter disponível no arquivo `ui_app.py`. O funcionamento é similar, mas com uma interface gráfica para facilitar a interação.
+* Para rodar a versão gráfica, execute o seguinte comando em ambos os terminais:
+
+    ```bash
+    python ui_app.py
+    ```
+
 ---
 
 ## 🛠️ Detalhes de Implementação (Requisitos do projeto atendidos)
